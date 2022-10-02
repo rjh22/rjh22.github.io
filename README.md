@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  background-color: lightgreen;
+}
+div {
+  background-color: lightblue;
+}
+</style>
+</head>
+
 # Ryan Himic's Repository for Website and Public projects
 
 #### This Git-page, it's branches, and associated projects are in a constant state of change. It is my goal to make it better, but does not necessarily represent the current state of my skills or knowledge.
