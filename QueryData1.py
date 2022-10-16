@@ -10,7 +10,7 @@ from IPython.display import display
 cnx = mysql.connector.connect(
     host ='127.0.0.1',
     user ='root',
-    password ='S3pt11N1n85'
+    password ='My_password'
     #auth_plugin= 'mysql_native_password'
 )
 
